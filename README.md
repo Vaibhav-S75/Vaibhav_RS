@@ -75,11 +75,12 @@
 
 ## 📜 Certifications & Achievements
 
-🏅 Minor Degree in Machine Learning – IIIT Hyderabad  
+🏅 Minor Degree in Machine Learning – IIIT Hyderabad
+🏅 Prompt Engineering Training - Infosys Springboard
 🏅 AWS Cloud Technical Essentials  
 🏅 SQL Certification – IIT Bombay  
-💡 Smart India Hackathon – Team Member  
-📄 Research Publications – Cloud Based Healthcare Monitoring System and Object Detection (IEEE).  
+💡 Smart India Hackathon semi-finalist – Team Member  
+📄 Research Publications – Cloud-Based Healthcare Monitoring System and Object Detection (IEEE).  
 
 ---
 
@@ -93,8 +94,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/VaibhavRS/VaibhavRS/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
