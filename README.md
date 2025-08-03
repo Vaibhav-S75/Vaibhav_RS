@@ -80,17 +80,6 @@
 💡 Smart India Hackathon semi-finalist – Team Member  
 📄 Research Publications – Cloud-Based Healthcare Monitoring System and Object Detection (IEEE).  
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavRS&theme=radical" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavRS&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavRS&layout=compact&theme=radical" alt="top languages" />
-</p>
-
----
 
 
 ---
